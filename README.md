@@ -1,16 +1,15 @@
-### Hi there 👋
+                                                  Hi👋 My Name is Sham Sbehat
+📍 I’m From Palestine
 
-<!--
-**Sham-Sbehat/Sham-Sbehat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I study Computer Systems Engineering at Arab American University
 
-Here are some ideas to get you started:
+🌱 I am currently focusing on learning Full-Stack Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 All of my projects are available at https://github.com/Sham-Sbehat
+
+📝 I regularly write articles on https://www.linkedin.com/in/sham-sbehat-5b1742253/
+
+✉️ You can contact me at shamsbehat8@gmail.com
+
+
+
