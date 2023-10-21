@@ -1,4 +1,4 @@
-                                                  Hi👋 My Name is Sham Sbehat
+                                              <h1>    Hi👋 My Name is Sham Sbehat <h1/>
 📍 I’m From Palestine
 
 💻 I study Computer Systems Engineering at Arab American University
@@ -12,25 +12,11 @@
 ✉️ You can contact me at shamsbehat8@gmail.com
 
 
-<p align="center">
+<p float="left">
 
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
   
 </p>
-
-# Hi guys 👋  I'm Ashfaque Ali
-
-
-
-
-
-- 🔭 At that movement I am doing BCA (Bachelors of Computer Application)
-- 🌱 I’m currently learning React JS
-- 👯 open source contributor
-- 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS**
-- 📫 How to reach me: aliashfak178@gmail.com
-- 😄 Pronouns: Pronouns: I, you, he, it, they, this
-- ⚡  Fun fact: I spend almost 5-6 hours Learning everyday
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,7 +31,3 @@
   
 </p>
 
-----
-Credit: [aliashfak178](https://github.com/aliashfak178)
-
-Last Edited on: 26/01/2021
