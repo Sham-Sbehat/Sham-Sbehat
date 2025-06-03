@@ -2,9 +2,9 @@
 
 📍 I’m From Palestine
 
-💻 I study Computer Systems Engineering at Arab American University
+💻 I studied Computer Systems Engineering at the Arab American University.
 
-🌱 I am currently focusing on learning Full-Stack Web Development
+🌱 I am currently focusing on learning Full-Stack Web Development, with a focus on Frontend using React.js.
 
 👨‍💻 All of my projects are available at https://github.com/Sham-Sbehat
 
